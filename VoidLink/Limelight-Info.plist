@@ -119,6 +119,7 @@ VoidLink uses microphone to stream your voice to PC host. Microphone redirection
 	<key>UISupportedExternalAccessoryProtocols</key>
 	<array>
 		<string>com.xiaoji.M2boot</string>
+		<string>com.razer.kishicontrollerv2</string>
 	</array>
 	<key>UISupportedInterfaceOrientations</key>
 	<array>

@@ -21,6 +21,7 @@
 		18729EDE2E8BD68800101194 /* UUIDHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18729EDD2E8BD68800101194 /* UUIDHelper.swift */; };
 		18780CC72F10D66000B90483 /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 18780CC62F10D66000B90483 /* StoreKit.framework */; };
 		A76B00032FFCC00100000003 /* GameSirG8MFiRumbler.swift in Sources */ = {isa = PBXBuildFile; fileRef = A76B00022FFCC00100000002 /* GameSirG8MFiRumbler.swift */; };
+		B76B00032FFCC00100000003 /* KishiV3ProXLRumbler.swift in Sources */ = {isa = PBXBuildFile; fileRef = B76B00022FFCC00100000002 /* KishiV3ProXLRumbler.swift */; };
 		A76B00052FFCC00100000005 /* ExternalAccessory.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A76B00042FFCC00100000004 /* ExternalAccessory.framework */; };
 		18780CCA2F10D6CC00B90483 /* IAPManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18780CC92F10D6CC00B90483 /* IAPManager.swift */; };
 		187F4B282E04658A00EECC59 /* WidgetPanelStackView.m in Sources */ = {isa = PBXBuildFile; fileRef = 187F4B272E04658A00EECC59 /* WidgetPanelStackView.m */; };
@@ -203,6 +204,7 @@
 		18729EDD2E8BD68800101194 /* UUIDHelper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UUIDHelper.swift; sourceTree = "<group>"; };
 		18780CC62F10D66000B90483 /* StoreKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = StoreKit.framework; path = System/Library/Frameworks/StoreKit.framework; sourceTree = SDKROOT; };
 		A76B00022FFCC00100000002 /* GameSirG8MFiRumbler.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GameSirG8MFiRumbler.swift; sourceTree = "<group>"; };
+		B76B00022FFCC00100000002 /* KishiV3ProXLRumbler.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = KishiV3ProXLRumbler.swift; sourceTree = "<group>"; };
 		A76B00042FFCC00100000004 /* ExternalAccessory.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = ExternalAccessory.framework; path = System/Library/Frameworks/ExternalAccessory.framework; sourceTree = SDKROOT; };
 		18780CC92F10D6CC00B90483 /* IAPManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IAPManager.swift; sourceTree = "<group>"; };
 		187F4B232E04633100EECC59 /* WidgetPanelStackView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = WidgetPanelStackView.h; sourceTree = "<group>"; };
@@ -757,6 +759,7 @@
 			children = (
 				84351B052C29ACAF00A77989 /* CustomOSC */,
 				A76B00022FFCC00100000002 /* GameSirG8MFiRumbler.swift */,
+				B76B00022FFCC00100000002 /* KishiV3ProXLRumbler.swift */,
 				FB89460A19F646E200339C8A /* ControllerSupport.h */,
 				FB89460B19F646E200339C8A /* ControllerSupport.m */,
 				FB89460C19F646E200339C8A /* StreamView.h */,
@@ -1251,6 +1254,7 @@
 				FB6549561A57907E001C8F39 /* DiscoveryWorker.m in Sources */,
 				84351B0E2C29ACCB00A77989 /* LayoutOnScreenControls.m in Sources */,
 				A76B00032FFCC00100000003 /* GameSirG8MFiRumbler.swift in Sources */,
+				B76B00032FFCC00100000003 /* KishiV3ProXLRumbler.swift in Sources */,
 				FB89462A19F646E200339C8A /* ControllerSupport.m in Sources */,
 				FB9AFD3D1A7E111600872C98 /* AppAssetResponse.m in Sources */,
 				1888C1922E24C33100108730 /* AboutViewController.swift in Sources */,
